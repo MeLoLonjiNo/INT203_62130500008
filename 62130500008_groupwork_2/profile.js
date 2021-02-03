@@ -12,8 +12,6 @@
                 button1 : 'Message',
                 button2 : 'Follow',
             }
-        },
-
-        
-    }
+        },   
+    },
     mountApp = Vue.createApp(app).mount('#app')
